@@ -1,3 +1,6 @@
+## [1.3.3]
+* [#104](https://github.com/fluttercommunity/wakelock_plus/pull/104): Add support SPM for macos. Thanks [Carapacik](https://github.com/Carapacik).
+
 ## [1.3.2]
 * [#98](https://github.com/fluttercommunity/wakelock_plus/pull/98): fix(ios): fix path to PrivacyInfo.xcprivacy. Thanks [slobodanmilinkovic](https://github.com/slobodanmilinkovic).
 
