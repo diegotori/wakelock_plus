@@ -56,6 +56,8 @@ flutter:
         pluginClass: WakelockPlusPlugin
       ios:
         pluginClass: WakelockPlusPlugin
+      tvos:
+        pluginClass: WakelockPlusPlugin
       windows:
         dartPluginClass: WakelockPlusWindowsPlugin
       macos:
